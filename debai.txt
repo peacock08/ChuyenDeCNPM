@@ -1,6 +1,6 @@
-1. Thuật toán Knuth-Morris-Partt
+1. Thuật toán Knuth-Morris-Partt--------------------------
 2. Thuật toán Karp-Rabin
-3. Thuật toán Shift or
+3. Thuật toán Shift or----------------------------
 4. Thuật toán Morris-Partt
 5. Thuật toán Automat hữu hạn
 6. Thuật toán Simon-------------------------------
@@ -11,7 +11,7 @@
 11. Turbo BM algorithm 
 12. Apostolico-Giancarlo algorithm
 14. Reverse Colussi algorithm------------------------------------
-15. Horspool algorithm
+15. Horspool algorithm-------------------------------------
 16. Quick Search algorithm
 17. Tuned Boyer-Moore algorithm------------------------------
 18. Zhu-Takaoka algorithm

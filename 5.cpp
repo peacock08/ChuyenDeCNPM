@@ -31,7 +31,6 @@ std::vector<int> build_table(const std::string& pattern) {
     return border;
 }
 
-
 std::vector<int> colussi(const std::string& text, const std::string& pattern) {
     std::vector<int> matches;
     int n = text.length();
