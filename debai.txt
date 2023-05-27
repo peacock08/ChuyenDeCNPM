@@ -1,0 +1,34 @@
+1. Thuật toán Knuth-Morris-Partt
+2. Thuật toán Karp-Rabin
+3. Thuật toán Shift or
+4. Thuật toán Morris-Partt
+5. Thuật toán Automat hữu hạn
+6. Thuật toán Simon-------------------------------
+7. Thuật toán Colussi------------------------------------ 
+8. Thuật toán Galil-Giancarlo
+9. Apostolico-Crochemore algorithm----------------------------
+10. Not So Naive algorithm
+11. Turbo BM algorithm 
+12. Apostolico-Giancarlo algorithm
+14. Reverse Colussi algorithm------------------------------------
+15. Horspool algorithm
+16. Quick Search algorithm
+17. Tuned Boyer-Moore algorithm------------------------------
+18. Zhu-Takaoka algorithm
+19. Berry-Ravindran algorithm
+20. Smith algorithm
+21. Raita algorithm
+22. Reverse Factor algorithm-------------------------------
+23. Turbo Reverse Factor algorithm
+24. Forward Dawg Matching algorithm
+25. Backward Nondeterministic Dawg 2.38. Matching algorithm
+26. Backward Oracle Matching algorithm
+27 Galil-Seiferas algorithm
+28. Two Way algorithm
+29. String Matching on Ordered 
+30. Alphabets algorithm
+31. Optimal Mismatch algorithm
+32. Maximal Shift algorithm
+33. Skip Search algorithm
+34. KMP Skip Search algorithm
+35. Alpha Skip Search algorithm
